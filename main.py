@@ -5,7 +5,7 @@ def main():
 
     presenta.presentarAlejandroMontes()
 
-    #Realiza aqui la llamada al metodo que te presenta
+    presenta.presentarPaulina()
 
 
 if __name__ == '__main__':
