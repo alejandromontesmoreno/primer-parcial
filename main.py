@@ -3,7 +3,7 @@ from clases.presentacion import Presentacion
 def main():
     presenta = Presentacion()
 
-    presenta.presentarAlejandroMontes()
+    presenta.presentarEmilianoMendoza()
 
     #Realiza aqui la llamada al metodo que te presenta
 
