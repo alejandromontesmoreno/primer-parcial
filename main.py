@@ -4,6 +4,7 @@ def main():
     presenta = Presentacion()
 
     presenta.presentarAlejandroMontes()
+    presenta.presentarEduardoCamacho()
 
     #Realiza aqui la llamada al metodo que te presenta
 
