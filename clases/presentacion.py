@@ -3,6 +3,6 @@ class Presentacion:
         pass
 
     def presentarAlejandroMontes(self):
-        print("Hola mi nombre es Alejandro Montes")
+        print("Hola mi nombre es Aldo Amaro")
 
     #Crear aqui el metodo para tu presentacion
