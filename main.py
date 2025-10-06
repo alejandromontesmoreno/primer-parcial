@@ -7,6 +7,8 @@ def main():
 
     #Realiza aqui la llamada al metodo que te presenta
 
+    presenta.presentarIvanGallardo()    
+
 
 if __name__ == '__main__':
     main()
