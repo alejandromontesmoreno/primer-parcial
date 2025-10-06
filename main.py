@@ -4,9 +4,8 @@ def main():
     presenta = Presentacion()
 
     presenta.presentarAlejandroMontes()
-
+    presenta.presentarLeonardoAlferez()
     #Realiza aqui la llamada al metodo que te presenta
-
 
 if __name__ == '__main__':
     main()
