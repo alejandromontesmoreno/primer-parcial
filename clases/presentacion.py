@@ -6,3 +6,5 @@ class Presentacion:
         print("Hola mi nombre es Alejandro Montes")
 
     #Crear aqui el metodo para tu presentacion
+    def presentarTuNombre(self):
+        print("Hola mi nombre es Christian Fernández")
