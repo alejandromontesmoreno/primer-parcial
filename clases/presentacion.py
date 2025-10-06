@@ -5,4 +5,5 @@ class Presentacion:
     def presentarAlejandroMontes(self):
         print("Hola mi nombre es Alejandro Montes")
 
-    #Crear aqui el metodo para tu presentacion
+    def presentarAlejandroMoreno(self):
+        print("Hola mi nombre es Alejandro Moreno")
